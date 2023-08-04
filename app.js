@@ -6,7 +6,6 @@ function rgb(){
 }
 
 let letters = document.querySelectorAll('.letter')
-
 let colorChange = setInterval( function(){
     for (let letter of letters){
         letter.style.color = rgb();
