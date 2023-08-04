@@ -3,7 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+<<<<<<< HEAD
     background-color: purple;
+=======
+    background-color: olive;
+>>>>>>> new-background-color
 }
 
 h1 {
