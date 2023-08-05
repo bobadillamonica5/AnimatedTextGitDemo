@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: aquamarine;
+    background-color: gray;
 }
 
 h1 {
-    font-size: 15rem;
-    font-family: comic sans-serif;
+    font-size: 20rem;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .letter {
